@@ -1,0 +1,9 @@
+button:nth-child(1){
+  background: red;
+  border: none;
+  color: white;
+  font-size: 30px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+}
