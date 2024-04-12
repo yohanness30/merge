@@ -1,4 +1,4 @@
-button:nth-child(1){
+.b1 {
   background: red;
   border: none;
   color: white;
@@ -7,7 +7,16 @@ button:nth-child(1){
   border-radius: 30px;
   cursor: pointer;
 }
-button:nth-child(2){
+.b1.show {
+  background-color: green;
+}
+.b2.show {
+  background-color: yellow;
+}
+.b3.show {
+  background-color: red;
+}
+.b2 {
   background: hsla(240, 100%, 50%, 0.856);
   border: none;
   color: white;
@@ -16,7 +25,7 @@ button:nth-child(2){
   border-radius: 30px;
   cursor: pointer;
 }
-button:nth-child(3){
+.b3 {
   background: orange;
   border: none;
   color: white;
