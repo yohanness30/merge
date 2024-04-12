@@ -7,3 +7,12 @@ button:nth-child(1){
   border-radius: 30px;
   cursor: pointer;
 }
+button:nth-child(2){
+  background: hsla(240, 100%, 50%, 0.856);
+  border: none;
+  color: white;
+  font-size: 30px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+}
